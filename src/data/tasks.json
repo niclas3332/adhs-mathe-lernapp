@@ -1,0 +1,8 @@
+[
+  { "id": "l1-001", "level": 1, "topic": "einmaleins", "type": "input", "question": "2 × 6", "answer": 12 },
+  { "id": "l1-002", "level": 1, "topic": "plus", "type": "choice", "question": "34 + 25", "answer": 59, "choices": [58, 59, 69] },
+  { "id": "l2-001", "level": 2, "topic": "einmaleins", "type": "input", "question": "7 × 8", "answer": 56 },
+  { "id": "l2-002", "level": 2, "topic": "plus", "type": "choice", "question": "38 + 47", "answer": 85, "choices": [75, 85, 84] },
+  { "id": "l3-001", "level": 3, "topic": "plus", "type": "input", "question": "345 + 238", "answer": 583 },
+  { "id": "l3-002", "level": 3, "topic": "geteilt", "type": "choice", "question": "56 : 8", "answer": 7, "choices": [6, 7, 8] }
+]
